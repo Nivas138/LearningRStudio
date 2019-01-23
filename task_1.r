@@ -1,0 +1,12 @@
+1+1
+3<4
+2+2==5
+my_apples<-5
+my_apples
+my_oranges<-6
+total_fruits=my_apples+my_oranges
+total_fruits-<my_apples+my_oranges
+total_fruits<-my_apples+my_oranges
+1%1
+help(sum)
+example(sum)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
