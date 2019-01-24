@@ -1,0 +1,11 @@
+?iris
+dim(iris)
+names(iris)
+head(iris)
+table(iris$Species)
+iris1<-iris
+iris1$Species=NULL
+head(iris1)
+result<-kmeans(iris1,4)
+result
+plot(iris1,col=(result$cluster))
